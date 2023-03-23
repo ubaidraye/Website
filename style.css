@@ -84,13 +84,13 @@
 }
 
 .link {
-    font-size: 20px;
+    font-size: 15px;
     text-decoration: none;
-    color: green;
+    color: dodgerblue;
 }
 
 .link:hover{
-    font-size: 20px;
+    font-size: 15px;
     text-decoration: none;
     color: red;
 }
