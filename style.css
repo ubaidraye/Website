@@ -89,6 +89,12 @@
     color: green;
 }
 
+.link:hover{
+    font-size: 20px;
+    text-decoration: none;
+    color: red;
+}
+
 .devpic img {
     height: 68vh;
 }
